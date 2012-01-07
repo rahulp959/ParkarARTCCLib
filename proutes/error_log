@@ -1,0 +1,4 @@
+[08-Dec-2011 15:36:48] PHP Fatal error:  Call to a member function db_build() on a non-object in /home2/zobartcc/public_html/proutes/csvgrab.php on line 11
+[08-Dec-2011 15:37:49] PHP Fatal error:  Call to a member function db_build() on a non-object in /home2/zobartcc/public_html/proutes/csvgrab.php on line 13
+[08-Dec-2011 15:41:03] PHP Parse error:  syntax error, unexpected T_STRING in /home2/zobartcc/public_html/proutes/csvgrab.php on line 36
+[08-Dec-2011 15:41:04] PHP Parse error:  syntax error, unexpected T_STRING in /home2/zobartcc/public_html/proutes/csvgrab.php on line 36

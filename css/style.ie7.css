@@ -1,0 +1,137 @@
+/* begin Page */
+#page-background-glare-image
+{
+  zoom: 1;
+}
+
+img
+{
+  filter: expression(artFixPNG(this));
+}/* end Page */
+
+/* begin Box, Sheet */
+.sheet-tl
+{
+  clip: rect(auto 1px 1px auto);
+}
+
+.sheet-tr
+{
+  clip: rect(auto auto 1px 1px);
+}
+
+.sheet-bl
+{
+  clip: rect(1px 1px auto auto);
+}
+
+.sheet-br
+{
+  clip: rect(1px auto auto 1px);
+}
+
+.sheet-tc
+{
+  clip: rect(auto auto 1px auto);
+}
+
+.sheet-bc
+{
+  clip: rect(1px auto auto auto);
+}
+
+.sheet-cr
+{
+  clip: rect(auto auto auto 1px);
+}
+
+.sheet-cl
+{
+  clip: rect(auto 1px auto auto);
+}
+
+.sheet-body
+{
+  zoom: 1;
+}
+/* end Box, Sheet */
+
+/* begin Menu */
+.nav-r
+{
+  clip: rect(auto auto auto 1000px);
+}
+
+/* end Menu */
+
+/* begin MenuItem */
+.menu a .r
+{
+  clip: rect(auto auto auto 400px);
+}
+/* end MenuItem */
+
+/* begin Layout */
+.content-layout, .content-layout-row {display: block;}
+.content-layout, .content-layout-row {zoom: 1;}
+/* end Layout */
+
+/* begin Button */
+.button-wrapper .button-r
+{
+  clip: rect(auto auto auto 409px);
+}
+/* end Button */
+
+/* begin Box, Block */
+
+.block-body
+{
+  zoom: 1;
+}
+/* end Box, Block */
+
+/* begin BlockHeader */
+.blockheader .r
+{
+  clip: rect(auto auto auto 994px);
+}
+/* end BlockHeader */
+
+/* begin Box, BlockContent */
+
+.blockcontent-body
+{
+  zoom: 1;
+}
+/* end Box, BlockContent */
+
+/* begin Box, Post */
+
+.post-body
+{
+  zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.postcontent
+{
+  height: 1%;
+}
+/* end PostContent */
+
+/* begin LayoutCell, content */
+.sidebar1 {width: auto;}
+.content-layout .layout-cell, .content-layout .layout-cell .content-layout .layout-cell
+{
+  display: block;
+  position:relative;
+  float: left;
+  clear: right;
+}
+.content-layout .layout-cell, .content-layout .layout-cell .content-layout .layout-cell {  zoom:1; }
+.layout-cell .layout-cell{ float: none; clear: both;}
+/* end LayoutCell, content */
+
+

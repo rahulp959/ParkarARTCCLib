@@ -1,0 +1,6 @@
+[30-Oct-2011 06:29:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/citrusn1/public_html/rparkar/zob/ajax/id.php:26) in /home1/citrusn1/public_html/rparkar/zob/ajax/id.php on line 59
+[30-Oct-2011 06:29:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/citrusn1/public_html/rparkar/zob/ajax/id.php:26) in /home1/citrusn1/public_html/rparkar/zob/ajax/id.php on line 59
+[30-Oct-2011 06:30:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/citrusn1/public_html/rparkar/zob/ajax/id.php:26) in /home1/citrusn1/public_html/rparkar/zob/ajax/id.php on line 59
+[13-Dec-2011 14:18:55] PHP Fatal error:  Call to undefined function  vatsimparse() in /home2/zobartcc/public_html/ajax/id.php on line 47
+[13-Dec-2011 14:19:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zobartcc/public_html/ajax/id.php:47) in /home2/zobartcc/public_html/ajax/id.php on line 56
+[13-Dec-2011 14:29:09] PHP Parse error:  syntax error, unexpected $end in /home2/zobartcc/public_html/ajax/id.php on line 57
